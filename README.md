@@ -1,2 +1,2 @@
-# updated-planets-and-sun-files
-all the new files related to the disappearing planets project
+# p5.play-boilerplate
+Boiler plate for p5.play
